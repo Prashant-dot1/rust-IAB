@@ -43,9 +43,11 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
 ### 3. Create a .env file
+```
 HOST=127.0.0.1
 PORT=3000
 DEV_LOGGING=1
+```
 
 ## Running Locally
 
